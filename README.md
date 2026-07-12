@@ -334,6 +334,6 @@ This project is intended for **educational and research purposes only**. Use it 
 
 ## Author
 
-**Your Name**
+**Sakshi Nalawade**
 Cybersecurity Research Project
 Python | Information Security | Malware Analysis Education
